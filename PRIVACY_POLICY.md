@@ -1,5 +1,5 @@
 ## Data collected
-User, channel and server IDs can be stored in our database to maintain specific userinfo, logging and guild command aspects respectively.  
+User, channel and server IDs can be stored in our database to maintain specific userinfo, logging afk and guild command aspects respectively.  
 None of this data can be manually searched through or fetched outside of that server or a server containing said user or channel.
 
 ## Data collection purposes
